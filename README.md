@@ -36,7 +36,7 @@ The HP Omen Accelerator uses a 500w Lite-On ATX power supply. The length is impo
 
 ### Don't disassemble the power supply unless you know what you are doing. This is for information only. Proceed at your own risk. Do not touch, and discharge the large filter capacitors before touching anything.
 
-![PSU](images/oa-psu-inside-1.jpeg)
+![PSU Internal (Link)](images/oa-psu-inside-1.jpeg)
 
 ![PSU](images/oa-psu-inside-2.jpg)
 
